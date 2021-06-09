@@ -1,0 +1,18 @@
+add 1 5
+add 2 14
+add 3 45
+add 4 153
+
+size
+lookupItem 0
+lookupItem 1
+lookupItem 2
+
+contains 64
+remove 64
+contains 64
+
+size
+
+
+quit

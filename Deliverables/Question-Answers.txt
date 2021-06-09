@@ -1,0 +1,6 @@
+1. Advantages: faster runtime, especially when searching for certain indexes/items.
+   Disadvantages: More memory usage, far more complicated, at least at the moment, for the programmer
+
+2. HashTable big O of add, remove, getItem (named lookupItem here), contains, and size have no loops, so big O for each is n.
+
+3. Again, as explained in 2., so big O is n, or even less. 
